@@ -6,3 +6,6 @@ c:\users\stephanie\documents\visual studio 2015\Projects\ElmahSortProgram\ElmahS
 c:\users\stephanie\documents\visual studio 2015\Projects\ElmahSortProgram\ElmahSortProgram\obj\Debug\ElmahSortProgram.pdb
 c:\users\stephanie\documents\visual studio 2015\Projects\ElmahSortProgram\ElmahSortProgram\bin\Debug\GemBox.Spreadsheet.dll
 c:\users\stephanie\documents\visual studio 2015\Projects\ElmahSortProgram\ElmahSortProgram\bin\Debug\GemBox.Spreadsheet.xml
+C:\Users\Stephanie\Documents\GitHub\ElmahSortProgram\ElmahSortProgram\bin\Debug\ElmahSortProgram.exe.config
+C:\Users\Stephanie\Documents\GitHub\ElmahSortProgram\ElmahSortProgram\obj\Debug\ElmahSortProgram.exe
+C:\Users\Stephanie\Documents\GitHub\ElmahSortProgram\ElmahSortProgram\obj\Debug\ElmahSortProgram.pdb
