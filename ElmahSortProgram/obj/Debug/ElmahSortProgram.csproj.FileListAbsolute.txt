@@ -9,3 +9,6 @@ c:\users\stephanie\documents\visual studio 2015\Projects\ElmahSortProgram\ElmahS
 C:\Users\Stephanie\Documents\GitHub\ElmahSortProgram\ElmahSortProgram\bin\Debug\ElmahSortProgram.exe.config
 C:\Users\Stephanie\Documents\GitHub\ElmahSortProgram\ElmahSortProgram\obj\Debug\ElmahSortProgram.exe
 C:\Users\Stephanie\Documents\GitHub\ElmahSortProgram\ElmahSortProgram\obj\Debug\ElmahSortProgram.pdb
+C:\Users\Stephanie\Documents\Fiddler2\ElmahSortProgram\ElmahSortProgram\bin\Debug\ElmahSortProgram.exe.config
+C:\Users\Stephanie\Documents\Fiddler2\ElmahSortProgram\ElmahSortProgram\obj\Debug\ElmahSortProgram.exe
+C:\Users\Stephanie\Documents\Fiddler2\ElmahSortProgram\ElmahSortProgram\obj\Debug\ElmahSortProgram.pdb
